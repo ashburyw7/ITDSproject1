@@ -47,7 +47,7 @@ p1
 ```
 
 
-*Remove this text (including the stars), and add your answer for Exercise 18 here.*
+The plot shows each members favourite number plotted aagainst there username as a bar graph
 
 ### Exercises 19
 
